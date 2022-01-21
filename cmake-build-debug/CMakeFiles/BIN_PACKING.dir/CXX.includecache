@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/Desktop/CLION_WORKSPACE/BIN_PACKING/GenerateBins.cpp
+iostream
+-
+algorithm
+-
+iomanip
+-
+Pack.h
+/Users/alex/Desktop/CLION_WORKSPACE/BIN_PACKING/Pack.h
+
+/Users/alex/Desktop/CLION_WORKSPACE/BIN_PACKING/Pack.cpp
+Pack.h
+/Users/alex/Desktop/CLION_WORKSPACE/BIN_PACKING/Pack.h
+utility
+-
+algorithm
+-
+iostream
+-
+
+/Users/alex/Desktop/CLION_WORKSPACE/BIN_PACKING/Pack.h
+vector
+-
+string
+-
+fstream
+-
+
