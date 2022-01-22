@@ -12,4 +12,3 @@ Approaches:
   Best Fit
   Offline First Fit
   Offline Best Fit
-  Offline Get Capacity
